@@ -15,7 +15,7 @@
   *  LED turn On botton
   *  LED turn Off botton
   ![Screenshot_20220920-133041_LEDCTR2](https://user-images.githubusercontent.com/107678418/191204558-b833028c-40cd-4a5e-b37c-ad9b31d57a6a.png)
- Here it shows available bluetooh devies
-  * Choose yout device
+ Here it shows available bluetooh devices
+  * Choose your device
   
   Thank you
